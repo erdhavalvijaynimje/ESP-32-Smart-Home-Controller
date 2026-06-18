@@ -1,2 +1,24 @@
-# ESP-32-Smart-Home-Controller
-An IoT-based smart room automation project using ESP32 WebServer. Controls multiple LEDs through a WiFi web interface with ON/OFF control and PWM brightness adjustment.
+# ESP32 Smart Room Controller
+
+An IoT based project using ESP32 WebServer.
+
+## Features
+
+- LED ON/OFF control
+- Multiple LED control
+- PWM brightness control
+- WiFi web control
+
+## Hardware
+
+- ESP32 DevKit V1
+- LEDs
+- Resistors
+- Jumper wires
+
+## Learning
+
+- WiFi.softAP()
+- WebServer library
+- HTML forms
+- PWM
