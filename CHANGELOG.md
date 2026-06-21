@@ -28,5 +28,6 @@ All notable changes to this project will be documented here.
 
 ### Added
 - ESP32 WebServer control
-- LED ON/OFF control
+- Dual LED ON/OFF control
 - WiFi SoftAP mode
+- PWM brightness slider
