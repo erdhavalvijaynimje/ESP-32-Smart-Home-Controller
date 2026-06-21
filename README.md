@@ -60,6 +60,9 @@ This project allows controlling LEDs wirelessly using a mobile/PC browser throug
 4. Control LEDs from the webpage.
 5. PWM slider changes LED brightness.
 
-## Circuit Diagram
 
-<img src="docs/circuitdigram.png" width="600">
+
+
+
+##                                            Thank You
+
